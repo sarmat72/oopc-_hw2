@@ -1,0 +1,2 @@
+C:\Users\student\Desktop\FOMIN\hw2_PhoneBook\Debug\hw2_PhoneBook.exe
+C:\Users\student\Desktop\FOMIN\hw2_PhoneBook\Debug\hw2_PhoneBook.pdb
